@@ -1,2 +1,2 @@
 # learning-about-version-control
-Individual Assignment 2_Question 7
+Solving merge conflicts is easy!
